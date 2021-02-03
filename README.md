@@ -1,7 +1,17 @@
-# d2l-pytorch-slides
+# d2l-ai/d2l-pytorch-slides
 
-This repo contains generated notebook slides. You can preview them in nbviwer, such as 
+This repo contains generated notebook slides. To open it locally, we suggest you to install the [rise](https://rise.readthedocs.io/en/stable/) extension.
 
-https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/ndarray.ipynb#/
-
-To open it locally, we suggest you to install the [rise](https://rise.readthedocs.io/en/stable/) extension. 
+You can also preview them in nbviwer:
+ - [chapter_preliminaries/ndarray.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/ndarray.ipynb)
+ - [chapter_preliminaries/pandas.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/pandas.ipynb)
+ - [chapter_preliminaries/linear-algebra.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/linear-algebra.ipynb)
+ - [chapter_preliminaries/calculus.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/calculus.ipynb)
+ - [chapter_preliminaries/autograd.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/autograd.ipynb)
+ - [chapter_preliminaries/lookup-api.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_preliminaries/lookup-api.ipynb)
+ - [chapter_linear-networks/linear-regression.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/linear-regression.ipynb)
+ - [chapter_linear-networks/linear-regression-scratch.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/linear-regression-scratch.ipynb)
+ - [chapter_linear-networks/linear-regression-concise.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/linear-regression-concise.ipynb)
+ - [chapter_linear-networks/image-classification-dataset.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/image-classification-dataset.ipynb)
+ - [chapter_linear-networks/softmax-regression-scratch.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/softmax-regression-scratch.ipynb)
+ - [chapter_linear-networks/softmax-regression-concise.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/softmax-regression-concise.ipynb)
