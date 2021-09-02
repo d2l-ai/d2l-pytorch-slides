@@ -43,7 +43,6 @@ You can also preview them in nbviwer:
  - [chapter_convolutional-modern/resnet.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_convolutional-modern/resnet.ipynb)
  - [chapter_convolutional-modern/densenet.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_convolutional-modern/densenet.ipynb)
  - [chapter_recurrent-neural-networks/sequence.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_recurrent-neural-networks/sequence.ipynb)
- - [chapter_recurrent-neural-networks/text-preprocessing.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_recurrent-neural-networks/text-preprocessing.ipynb)
  - [chapter_recurrent-neural-networks/language-models-and-dataset.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_recurrent-neural-networks/language-models-and-dataset.ipynb)
  - [chapter_recurrent-neural-networks/rnn-scratch.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_recurrent-neural-networks/rnn-scratch.ipynb)
  - [chapter_recurrent-neural-networks/rnn-concise.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_recurrent-neural-networks/rnn-concise.ipynb)
