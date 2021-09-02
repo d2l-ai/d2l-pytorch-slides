@@ -19,7 +19,6 @@ You can also preview them in nbviwer:
  - [chapter_linear-networks/softmax-regression-concise.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_linear-networks/softmax-regression-concise.ipynb)
  - [chapter_multilayer-perceptrons/mlp.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/mlp.ipynb)
  - [chapter_multilayer-perceptrons/mlp-scratch.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/mlp-scratch.ipynb)
- - [chapter_multilayer-perceptrons/mlp-concise.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/mlp-concise.ipynb)
  - [chapter_multilayer-perceptrons/underfit-overfit.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/underfit-overfit.ipynb)
  - [chapter_multilayer-perceptrons/weight-decay.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/weight-decay.ipynb)
  - [chapter_multilayer-perceptrons/dropout.ipynb](https://nbviewer.jupyter.org/format/slides/github/d2l-ai/d2l-pytorch-slides/blob/main/chapter_multilayer-perceptrons/dropout.ipynb)
